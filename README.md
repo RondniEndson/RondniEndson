@@ -10,7 +10,7 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondniendson&layout=compact&theme=radical)
 
-<img src="https://raw.githubusercontent.com/RondniEndson/Rondni-Endson/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
 
 <h1 align="center"> My programming language</h1>
 
