@@ -6,9 +6,9 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
 
 <h1 align="center"> my statistics</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rondniendson&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RondniEndson&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondniendson&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RondniEndson&layout=compact&theme=radical)
 
 <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
 
