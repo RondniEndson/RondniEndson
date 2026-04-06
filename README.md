@@ -7,8 +7,8 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
 <h1 align="center"> my statistics</h1>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RondniEndson&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondniEndson&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rondniEndson&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondniEndson&layout=compact&theme=radical" width="300" />
 </p>
 
 <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
