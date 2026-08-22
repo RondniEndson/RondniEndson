@@ -9,7 +9,7 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
 <h1 align="center"> My programming language</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,js,nodejs,python" />
 </p>
 
 
