@@ -1,8 +1,8 @@
 Hello word. 👋🏽
 
-Estudante em análise e desenvolvimento de sistemas. 👨🏽‍💻
+Analista de sistema junior 
 
-Contatoo no e-mail: rondniendson@gmail.com 📩
+e-mail: rondniendson@gmail.com 📩
 
 <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
 
