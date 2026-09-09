@@ -9,7 +9,16 @@ e-mail: rondniendson@gmail.com 📩
 <h1 align="center"> My programming language</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=c,js,nodejs,python,java,php,SQL,TypeScript" />
+</p>
+
+<h1 align="center"> My framerworkslanguage</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,React, Next.js, Angular, Vue, Express, NestJS	Web / Backend
+TypeScript	Angular, NestJS, Next.js, React	Web / Backend
+Python	Django, Flask, FastAPI, Pyramid	Web / APIs
+Java	Spring, Spring Boot, Jakarta EE" />
 </p>
 
 
