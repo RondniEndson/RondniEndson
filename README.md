@@ -39,36 +39,8 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RondniEndson&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" />
 </p>
 
 ---
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/RondniEndson/Certificados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RondniEndson&repo=Certificados&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/RondniEndson/Projetos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RondniEndson&repo=Projetos&theme=dark&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Any technological or managerial scheme to force documentation<br>can be subverted by unwilling programmers."</i><br>
-  — Daniel T. Barry
-</p>
