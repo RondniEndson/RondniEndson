@@ -1,50 +1,74 @@
-Hello word. 👋🏽
+<h1 align="center">Hi 👋 I'm Rondni Endson</h1>
 
-Systems Analyst
-
-e-mail: rondniendson@gmail.com 📩
-
-<img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
-
-<h1 align="center">My programming languages</h1>
+<h3 align="center">Front-End Developer in progress • ADS Student at Unijorge</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,java,php,mysql" />
+  <a href="https://www.linkedin.com/in/rondni-endson-462a283a7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/r.endson__"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:rondniendson@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h1 align="center">My frameworks</h1>
+---
+
+## 💻 Tech Stack
+
+**Linguagens**
+
+![](https://skillicons.dev/icons?i=c,js,python,java,php,mysql)
+
+**Frameworks & Bibliotecas**
+
+![](https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,ts,nestjs,django,flask,spring)
+
+**Vídeo & Design**
+
+![](https://skillicons.dev/icons?i=ae,pr)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,typescript,nestjs,python,django,flask,spring" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RondniEndson&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RondniEndson&theme=dark&hide_border=true" />
 </p>
 
-
-<h1 align="center"> My Video Technology</h1>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,pr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondniEndson&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<h1 align="center"> My Social Midias</h1>
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://instagram.com/r.endson__" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RondniEndson&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" />
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/RondniEndson/Certificados">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RondniEndson&repo=Certificados&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/RondniEndson/Projetos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RondniEndson&repo=Projetos&theme=dark&hide_border=true" />
   </a>
 </p>
 
+---
 
-<!--
-**RondniEndson/RondniEndson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Any technological or managerial scheme to force documentation<br>can be subverted by unwilling programmers."</i><br>
+  — Daniel T. Barry
+</p>
