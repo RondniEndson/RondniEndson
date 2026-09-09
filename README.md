@@ -1,18 +1,18 @@
 Hello word. 👋🏽
 
-Analista de sistema junior 
+Systems Analyst
 
 e-mail: rondniendson@gmail.com 📩
 
 <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
 
-<h1 align="center">Minhas linguagens de programação</h1>
+<h1 align="center">My programming languages</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,python,java,php,mysql" />
 </p>
 
-<h1 align="center">Meus frameworks</h1>
+<h1 align="center">My frameworks</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,typescript,nestjs,python,django,flask,spring" />
