@@ -6,17 +6,16 @@ e-mail: rondniendson@gmail.com 📩
 
 <img src="https://raw.githubusercontent.com/RondniEndson/RondniEndson/output/snake.svg" alt="Snake animation" />
 
-<h1 align="center"> My programming language</h1>
+<h1 align="center">Minhas linguagens de programação</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,java,php,MYSQL,java" />
+  <img src="https://skillicons.dev/icons?i=c,js,python,java,php,mysql" />
 </p>
 
-<h1 align="center"> My framerworks language</h1>
+<h1 align="center">Meus frameworks</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=React,Next.js,Angular,Vue,Express.TypeScript.Angular,NestJS,
-Python,Django, Flask,JavaSpring,Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,typescript,nestjs,python,django,flask,spring" />
 </p>
 
 
