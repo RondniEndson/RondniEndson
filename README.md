@@ -14,11 +14,11 @@
 
 **Linguagens**
 
-![](https://skillicons.dev/icons?i=c,js,python,java,php,mysql)
+![](https://skillicons.dev/icons?i=c,js,python,php,mysql)
 
 **Frameworks & Bibliotecas**
 
-![](https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,ts,nestjs,django,flask,spring)
+![](https://skillicons.dev/icons?i=react)
 
 **Vídeo & Design**
 
