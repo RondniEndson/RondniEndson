@@ -14,7 +14,7 @@
 
 **Linguagens**
 
-![](https://skillicons.dev/icons?i=c,js,python,php,mysql)
+![](https://skillicons.dev/icons?i=c,jv,python,mysql)
 
 **Frameworks & Bibliotecas**
 
